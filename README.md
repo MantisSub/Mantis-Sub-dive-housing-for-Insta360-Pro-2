@@ -22,14 +22,14 @@ Thumbwheel: 1x 8-32 UNC x 1” SS304 Hex Socket
 1x M2 DIN6799 E-Type
 
 ### Plunger button spring		
-Regular: 	1x CS=0.7mm, OD=5mm, L=10mm SS304 compression spring
-Deep: 		1x CS=0.8mm, OD=5mm, L=10mm SS304 compression spring
+Regular: 1x CS=0.7mm, OD=5mm, L=10mm SS304 compression spring \
+Deep: 1x CS=0.8mm, OD=5mm, L=10mm SS304 compression spring
 
 
 ## O-rings
 
 ### Domes		
-6x CS=2.2mm, OD=64.4mm, ID=60.0mm, N70
+Regular: 6x CS=2.2mm, OD=64.4mm, ID=60.0mm, N70\
 Alternative: 6x CS=2.4mm, OC=64mm, ID=59.2, N70
 
 ### Enclosure	
