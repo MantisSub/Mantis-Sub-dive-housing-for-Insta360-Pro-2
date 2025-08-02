@@ -33,14 +33,22 @@ Regular: 6x CS=2.2mm, OD=64.4mm, ID=60.0mm, N70\
 Alternative: 6x CS=2.4mm, OC=64mm, ID=59.2, N70
 
 ### Enclosure	
-CS=3mm, OD=213, ID=207mm, N70
+Regular: custom moulded
+Alternative: CS=3mm, OD=213, ID=207mm, N70
 	
 ### Bulkheads	
-4x CS=2.0mm OD=20mm, ID=16, N70
+4x CS=2.0mm OD=20mm, ID=16mm, N70
 
 ### Plunger button
 2x CS=1.9mm, OD=6.0mm, ID=2.2mm, N70
 
 ### Capacitive buttons, LED
 3x CS=1mm, OD=14mm, ID=12mm, N70
+
+### Vacuum valve
+Bulkhead: 1x CS=2mm, OD=18mm, ID=14mm, N70\
+Cap: 1x CS=1.5mm, OD=20mm, ID=17mm, N70
+
+
+
 
