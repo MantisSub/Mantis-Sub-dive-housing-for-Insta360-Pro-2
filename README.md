@@ -36,7 +36,6 @@ Alternative: 6x CS=2.4mm, OC=63mm, ID=58.2, N70
 Regular: custom moulded\
 Alternative: CS=3mm, OD=213, ID=207mm, N70\
 Alternative: CS=3.1mm, OD=210, ID=203.8mm, N70\
-Alternative: CS=3.1mm, OD=215, ID=208.8mm, N70
 	
 ### Bulkheads	
 4x CS=2.0mm OD=20mm, ID=16mm, N70
