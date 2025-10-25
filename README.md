@@ -3,7 +3,7 @@
 ## Screws
 
 ### Dome		
-24x M3x8mm Flat Countersunk Head aluminium
+24x M3x8mm Flat Countersunk Head aluminium (or stainless, with Tef-Gel anti-corrosive lubricant)
 
 ### Latch		
 8x M3.5x6mm SS304 Phillips Pan Head 
@@ -30,7 +30,7 @@ Deep: 1x CS=0.8mm, OD=5mm, L=10mm SS304 compression spring
 
 ### Domes		
 Regular: 6x CS=2.2mm, OD=64.4mm, ID=60.0mm, N70\
-Alternative: 6x CS=2.4mm, OC=64mm, ID=59.2, N70
+Alternative: 6x CS=2.4mm, OC=63mm, ID=58.2, N70
 
 ### Enclosure	
 Regular: custom moulded\
@@ -47,7 +47,7 @@ Alternative: CS=3.1mm, OD=215, ID=208.8mm, N70
 ### Capacitive buttons, LED
 3x CS=1mm, OD=14mm, ID=12mm, N70
 
-### Vacuum valve
+### Nauticam Vacuum valve
 Bulkhead: 1x CS=2mm, OD=18mm, ID=14mm, N70\
 Cap: 1x CS=1.5mm, OD=20mm, ID=17mm, N70
 
